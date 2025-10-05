@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+env/
+venv/
+.env
+
+# Streamlit cache
+.streamlit/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model artifacts (comment out if you DO want them in Git)
+# *.pkl
